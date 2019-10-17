@@ -1,4 +1,25 @@
 <?php
+
+// incluir a funcionalidade do recaptcha
+require_once "recaptchalib.php";
+
+// definir a chave secreta
+$secret = "6LfNJL4UAAAAAJN-I3-Z15COb6EcDYRR1f-5FqJn";
+
+// verificar a chave secreta
+$response = null;
+$reCaptcha = new ReCaptcha($secret);
+
+if ($_POST["g-recaptcha-response"]) {
+    $response = $reCaptcha->verifyResponse($_SERVER["REMOTE_ADDR"], $_POST["g-recaptcha-response"]);
+}
+
+// deu tudo certo?
+if ($response != null && $response->success) {
+    // processar o formulario
+}
+
+
 // Check for empty fields
 if(empty($_POST['name'])      ||
    empty($_POST['email'])     ||

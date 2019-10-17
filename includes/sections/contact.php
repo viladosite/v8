@@ -33,6 +33,7 @@
               </div>
               <div class="clearfix"></div>
               <div class="col-lg-12 text-center">
+              	<div class="g-recaptcha" data-sitekey="6LfNJL4UAAAAAACYXYivOLQ5Cl78D4OasL286G-B"></div>
                 <div id="success"></div>
                 <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Enviar</button>
               </div>
