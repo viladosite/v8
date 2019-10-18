@@ -31,9 +31,16 @@
                   <p class="help-block text-danger"></p>
                 </div>
               </div>
+              <div class="col-md-12">
+                <div class="form-group">
+                  <div class="g-recaptcha mx-auto" style="width: fit-content; padding-bottom: 10px;" data-sitekey="6LfNJL4UAAAAAACYXYivOLQ5Cl78D4OasL286G-B"></div>
+                </div>
+              </div>
               <div class="clearfix"></div>
-              <div class="col-lg-12 text-center">
-              	<div class="g-recaptcha" data-sitekey="6LfNJL4UAAAAAACYXYivOLQ5Cl78D4OasL286G-B"></div>
+	              <?php if(!empty($statusMsg)){ ?>
+	    			<p class="status-msg <?php echo $status; ?>"><?php echo $statusMsg; ?></p>
+				  <?php } ?>
+              <div class="col-lg-12 text-center">     	
                 <div id="success"></div>
                 <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Enviar</button>
               </div>
