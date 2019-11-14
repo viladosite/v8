@@ -32,7 +32,7 @@
                 <p>
                 Por se tratar de um site que foi confeccionado por outra empresa foram utilizados diversos plugins e recursos que muitas vezes pesam no carregamento, fazendo com que o anagea.org.br seja um site relativamente pesado e com uma necessidade especial quanto à segurança, por isso a Vila do Site verificou uma série de quesitos de estabilidade e segurança para garantir que fosse viável mante-lo sem comprometer a infra-estrutura de nossos servidores e monitora constantemente suas atualizações e consumo de recursos.</p>
                 <ul class="list-inline">
-                  <li>Data: 2017</li>
+                  <li><a href="https://www.anagea.org.br/" target="_blank">anagea.org.br</a></li>
                   <li>Cliente: Anagea</li>
                   <li>Serviço: Manutenção</li>
                 </ul>
@@ -80,7 +80,7 @@
                 </p>
 
                 <ul class="list-inline">
-                  <li>Data: 2017</li>
+                  <li><a href="https://www.alyne.org.br/" target="_blank">alyne.org.br</a></li>
                   <li>Cliente: Alyne</li>
                   <li>Serviço: Criação de Website</li>
                 </ul>
@@ -127,7 +127,7 @@
                 </p>
 
                 <ul class="list-inline">
-                  <li>Data: January 2017</li>
+                  <li><a href="https://www.anagea-rj.org.br/" target="_blank">anagea-rj.org.br</a></li>
                   <li>Cliente: Anagea</li>
                   <li>Serviço: Manutenção</li>
                 </ul>
@@ -168,7 +168,7 @@
                 </p>
 
                 <ul class="list-inline">
-                  <li>Data: 2017</li>
+                  <li><a href="https://www.breveseschmidt.com.br/" target="_blank">breveseschmidt.com.br</a></li>
                   <li>Cliente: Breves e Schmidt</li>
                   <li>Serviço: Criação de Website</li>
                 </ul>
@@ -200,7 +200,9 @@
                 <h2 class="text-uppercase">Criola</h2>
                 <p class="item-intro text-muted">Criação de Website</p>
                 <img class="img-fluid d-block mx-auto" src="img/portfolio/criola-full.jpg" alt="">
-                <p>A equipe do site criola.org.br procurou a Jardim Digital (www.jardimdigital.com.br) que trabalhou em parceria com a Vila do Site para reformular todo o layout do site.</p>
+                <p>
+                  A equipe do site criola.org.br procurou a Jardim Digital (www.jardimdigital.com.br) que trabalhou em parceria com a Vila do Site para reformular todo o layout do site.
+                </p>
                 <p>
                   O novo layout (totalmente diferente do antigo) funciona sob uma instalação do wordpress e teve uma série de recursos incluidos e até mesmo criados em forma de plugins personalizados do wordpress exclusivamente para este site.
                 </p>
@@ -212,7 +214,7 @@
                 </p>
 
                 <ul class="list-inline">
-                  <li>Data: 2017</li>
+                  <li><a href="https://www.criola.org.br/" target="_blank">criola.org.br</a></li>
                   <li>Cliente: Criola</li>
                   <li>Serviço: Criação de Website</li>
                 </ul>
@@ -256,7 +258,7 @@
                 </p>
 
                 <ul class="list-inline">
-                  <li>Data: 2017</li>
+                  <li><a href="#" target="_blank">multiversidade</a></li>
                   <li>Cliente: Criola</li>
                   <li>Serviço: Criação de Website</li>
                 </ul>
@@ -297,7 +299,7 @@
                 </p>
                 
                 <ul class="list-inline">
-                  <li>Data: 2016</li>
+                  <li><a href="http://andrepaz.net/v1" target="_blank">andrepaz.net/v1</a></li>
                   <li>Cliente: André Paz</li>
                   <li>Serviço: Manutenção</li>
                 </ul>
@@ -339,7 +341,7 @@
                 </p>
                 
                 <ul class="list-inline">
-                  <li>Data: 2016</li>
+                  <li><a href="http://bug404.net/" target="_blank">bug404.net</a></li>
                   <li>Cliente: Portal Bug 404</li>
                   <li>Serviço: Manutenção</li>
                 </ul>
@@ -379,7 +381,7 @@
                 <p>Alguns dos plugins do site foram reajustados para que carregassem da maneira correta com suas novas versões e rodando sob tecnologia HTML5.</p>
 
                 <ul class="list-inline">
-                  <li>Data: 2016</li>
+                  <li><a href="https://locoporti.org.br/" target="_blank">locoporti.org.br</a></li>
                   <li>Cliente: Portal Loco por Ti</li>
                   <li>Serviço: Manutenção</li>
                 </ul>
