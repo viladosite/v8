@@ -80,9 +80,9 @@
                 </p>
 
                 <ul class="list-inline">
-                  <li>Date: 2017</li>
-                  <li>Client: Alyne</li>
-                  <li>Category: Criação de Website</li>
+                  <li>Data: 2017</li>
+                  <li>Cliente: Alyne</li>
+                  <li>Serviço: Criação de Website</li>
                 </ul>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
@@ -127,9 +127,9 @@
                 </p>
 
                 <ul class="list-inline">
-                  <li>Date: January 2017</li>
-                  <li>Client: Anagea</li>
-                  <li>Category: Manutenção</li>
+                  <li>Data: January 2017</li>
+                  <li>Cliente: Anagea</li>
+                  <li>Serviço: Manutenção</li>
                 </ul>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
@@ -168,9 +168,9 @@
                 </p>
 
                 <ul class="list-inline">
-                  <li>Date: 2017</li>
-                  <li>Client: Breves e Schmidt</li>
-                  <li>Category: Criação de Website</li>
+                  <li>Data: 2017</li>
+                  <li>Cliente: Breves e Schmidt</li>
+                  <li>Serviço: Criação de Website</li>
                 </ul>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
@@ -212,9 +212,9 @@
                 </p>
 
                 <ul class="list-inline">
-                  <li>Date: 2017</li>
-                  <li>Client: Criola</li>
-                  <li>Category: Criação de Website</li>
+                  <li>Data: 2017</li>
+                  <li>Cliente: Criola</li>
+                  <li>Serviço: Criação de Website</li>
                 </ul>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
@@ -256,9 +256,9 @@
                 </p>
 
                 <ul class="list-inline">
-                  <li>Date: 2017</li>
-                  <li>Client: Criola</li>
-                  <li>Category: Criação de Website</li>
+                  <li>Data: 2017</li>
+                  <li>Cliente: Criola</li>
+                  <li>Serviço: Criação de Website</li>
                 </ul>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
@@ -297,9 +297,9 @@
                 </p>
                 
                 <ul class="list-inline">
-                  <li>Date: 2016</li>
-                  <li>Client: André Paz</li>
-                  <li>Category: Manutenção</li>
+                  <li>Data: 2016</li>
+                  <li>Cliente: André Paz</li>
+                  <li>Serviço: Manutenção</li>
                 </ul>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
@@ -339,9 +339,9 @@
                 </p>
                 
                 <ul class="list-inline">
-                  <li>Date: 2016</li>
-                  <li>Client: Portal Bug 404</li>
-                  <li>Category: Manutenção</li>
+                  <li>Data: 2016</li>
+                  <li>Cliente: Portal Bug 404</li>
+                  <li>Serviço: Manutenção</li>
                 </ul>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
@@ -379,9 +379,9 @@
                 <p>Alguns dos plugins do site foram reajustados para que carregassem da maneira correta com suas novas versões e rodando sob tecnologia HTML5.</p>
 
                 <ul class="list-inline">
-                  <li>Date: 2016</li>
-                  <li>Client: Portal Loco por Ti</li>
-                  <li>Category: Manutenção</li>
+                  <li>Data: 2016</li>
+                  <li>Cliente: Portal Loco por Ti</li>
+                  <li>Serviço: Manutenção</li>
                 </ul>
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
