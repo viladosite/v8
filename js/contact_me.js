@@ -17,15 +17,6 @@ $(function() {
       if (firstName.indexOf(' ') >= 0) {
         firstName = name.split(' ').slice(0, -1).join(' ');
       }
-
-      //trecho de código do recaptcha
-      if (grecaptcha.getResponse() == "")
-       {
-            alert("Você não clicou no reCAPTCHA, por favor, faça!")
-            return false;
-       }
-      //fim do trecho do recaptcha 
-
       $this = $("#sendMessageButton");
       $this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
       $.ajax({

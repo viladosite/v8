@@ -17,6 +17,10 @@
                   <p class="help-block text-danger"></p>
                 </div>
                 <div class="form-group">
+                  <input class="form-control" id="g-recaptcha-response" type="hidden" name="g-recaptcha-response">
+                  <p class="help-block text-danger"></p>
+                </div>
+                <div class="form-group">
                   <input class="form-control" id="email" type="email" placeholder="Seu Email *" required="required" data-validation-required-message="Entre com seu endereço de E-mail.">
                   <p class="help-block text-danger"></p>
                 </div>
@@ -31,11 +35,6 @@
                   <p class="help-block text-danger"></p>
                 </div>
               </div>
-              <div class="col-md-12">
-                <div class="form-group">
-                  <div class="g-recaptcha mx-auto" style="width: fit-content; padding-bottom: 10px;" data-sitekey="6LfNJL4UAAAAAACYXYivOLQ5Cl78D4OasL286G-B"></div>
-                </div>
-              </div>
               <div class="clearfix"></div>
 	              <?php if(!empty($statusMsg)){ ?>
 	    			<p class="status-msg <?php echo $status; ?>"><?php echo $statusMsg; ?></p>
@@ -46,6 +45,18 @@
               </div>
             </div>
           </form>
+
+            <!-- Recaptcha -->
+              <script>
+              grecaptcha.ready(function() {
+                  grecaptcha.execute('6Lc-98QUAAAAAGWs2kogukN8WN6DLnPRQhPVTa5_', {action: 'homepage'}).then(function(token) {
+                     //console.log(token);
+                     document.getElementById('g-recaptcha-response').value=token;
+                  });
+              });
+              </script>
+
+
         </div>
       </div>
     </div>

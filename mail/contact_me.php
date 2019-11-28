@@ -1,24 +1,18 @@
 <?php
+if($_POST){
+	function getCaptcha($SecretKey){
+		$Response = file_get_contents("https://www.google.com/recaptcha/api/siteverify=6Lc-98QUAAAAAPkcp5JSRVFh1qT3Q4UlSRtCMuRk&response={$SecretKey}");
+		$Return = json_decode($Response);
+		return $Return;
+	}
+	$Return = getCaptcha($_POST['g-recaptcha-response']);
 
-// incluir a funcionalidade do recaptcha
-require_once "recaptchalib.php";
-
-// definir a chave secreta
-$secret = "6LfNJL4UAAAAAJN-I3-Z15COb6EcDYRR1f-5FqJn";
-
-// verificar a chave secreta
-$response = null;
-$reCaptcha = new ReCaptcha($secret);
-
-if ($_POST["g-recaptcha-response"]) {
-    $response = $reCaptcha->verifyResponse($_SERVER["REMOTE_ADDR"], $_POST["g-recaptcha-response"]);
+	if ($Return->success == true && $Return->success->score > 0.5) {
+		echo "Success!";
+	}else{
+		echo "You are a Robot!";
+	}
 }
-
-// deu tudo certo?
-if ($response != null && $response->success) {
-    // processar o formulario
-}
-
 
 // Check for empty fields
 if(empty($_POST['name'])      ||
@@ -40,7 +34,7 @@ $message = strip_tags(htmlspecialchars($_POST['message']));
 $to = 'dev@viladosite.com.br'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
 $email_subject = "Contato pelo Site:  $name";
 $email_body = "Você recebeu uma nova mensagem do formulário de contato do site.\n\n"."Detalhes da mensagem:\n\nNome: $name\n\nEmail: $email_address\n\nTelefone: $phone\n\nMensagem:\n$message";
-$headers = "From: admin@viladosite.com.br\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
+$headers = "From: noreply@viladosite.com.br\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
 $headers .= "Reply-To: $email_address";   
 mail($to,$email_subject,$email_body,$headers);
 return true;         
