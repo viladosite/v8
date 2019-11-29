@@ -35,7 +35,8 @@ $to = 'dev@viladosite.com.br'; // Add your email address inbetween the '' replac
 $email_subject = "Contato pelo Site:  $name";
 $email_body = "Você recebeu uma nova mensagem do formulário de contato do site.\n\n"."Detalhes da mensagem:\n\nNome: $name\n\nEmail: $email_address\n\nTelefone: $phone\n\nMensagem:\n$message";
 $headers = "From: noreply@viladosite.com.br\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
-$headers .= "Reply-To: $email_address";   
+$headers .= "Reply-To: $email_address"; 
+$headers .= "Content-Type: text/html; charset=utf-8\n";  
 mail($to,$email_subject,$email_body,$headers);
 return true;         
 ?>
