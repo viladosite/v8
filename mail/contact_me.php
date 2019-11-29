@@ -32,11 +32,18 @@ $message = strip_tags(htmlspecialchars($_POST['message']));
    
 // Create the email and send the message
 $to = 'dev@viladosite.com.br'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
-$email_subject = "Contato pelo Site:  $name";
-$email_body = "Você recebeu uma nova mensagem do formulário de contato do site.\n\n"."Detalhes da mensagem:\n\nNome: $name\n\nEmail: $email_address\n\nTelefone: $phone\n\nMensagem:\n$message";
+$email_subject = "$name entrou em contato pelo site viladosite.com.br";
+$email_body = "Você recebeu uma nova mensagem do formulário de contato do site.<br>
+	<strong>Detalhes da mensagem:</strong><br>
+	<strong>Nome:</strong> $name <br>
+	<strong>Email:</strong> <a href='mailto:$email_address?subject= $email_subject'> <br>
+	<strong>Telefone:<strong> $phone <br>
+	<strango>Mensagem:<strong><br> $message";
+	
 $headers = "From: noreply@viladosite.com.br\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
-$headers .= "Reply-To: $email_address"; 
-$headers .= "Content-Type: text/html; charset=utf-8\n";  
+$headers .= "Reply-To: $email_address\n";
+$headers .= "Content-Type: text/html; charset=utf-8\n"; 
+
 mail($to,$email_subject,$email_body,$headers);
 return true;         
 ?>
