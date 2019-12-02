@@ -35,6 +35,7 @@
                   <p class="help-block text-danger"></p>
                 </div>
               </div>
+
               <div class="clearfix"></div>
 	              <?php if(!empty($statusMsg)){ ?>
 	    			<p class="status-msg <?php echo $status; ?>"><?php echo $statusMsg; ?></p>
