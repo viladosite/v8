@@ -435,3 +435,51 @@
       </div>
     </div>
   </div>
+
+  <!-- Modal 11 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal11" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h2 class="text-uppercase">Estante do Saber</h2>
+                <p class="item-intro text-muted">Criação de Website</p>
+                <img class="img-fluid d-block mx-auto" src="img/portfolio/estante-full.jpg" alt="">
+                <p>O site estante do saber foi criado pela Vila do Site à pedido dos professores Anselmo Fagundes e Etiene Oliveira para que fosse um hub de informações para seus alunos particulares.</p>
+                <p>
+                  Para a criação foram utilizados o tradicional wordpress com um template pré-selecionado em conjunto com o cliente mas o mais interessante deste site são os sistemas integrados que foram instalados e configurados para funcionar em conjunto suprindo uma demanda muito específica do cliente: a de marcação de aulas particulares pagas.
+                </p>
+
+                <p>Este site conta com um sistema similar ao de uma loja virtual, sendo possível fazer "compras" online no site porem com uma particularidade.....o produto que está à venda são os horários/datas de aulas.</p>
+
+                <p>
+                  Nele é possível agendar uma aula particular, pagar por esta aula e selecionar em que data e horário você deseja sua aula. Ao fazer o agendamento e pagar a aula, aquela data e hora ficam reservados para você, não sendo mais possível que outra pessoa reserve este mesmo horário desta data, um sistema similar ao de hotéis e pousadas, mas com algumas particularidades específicas voltadas para aulas.
+                </p>
+
+                <p>
+                  Este sistema integrado com o sistema de pagamento para confirmação online do pagamento e consequente reserva do horário constituem a parte mais complexa do site mas alem disso, o site conta tambem com área de downloads privados para cada um dos alunos com materiais das aulas, área de downloads gerais e até sistema para integração de video-conferencia interna para as aulas.
+                </p>
+
+                <ul class="list-inline">
+                  <li><a href="http://estantedosaber.com.br/v1/" target="_blank">estantedosaber.com.br</a></li>
+                  <li>Cliente: Estante do Saber</li>
+                  <li>Serviço: Criação de Website</li>
+                </ul>
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Fechar</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
