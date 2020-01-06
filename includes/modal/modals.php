@@ -395,3 +395,43 @@
       </div>
     </div>
   </div>
+
+  <!-- Modal 10 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal10" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h2 class="text-uppercase">Terg</h2>
+                <p class="item-intro text-muted">Manutenção</p>
+                <img class="img-fluid d-block mx-auto" src="img/portfolio/terg-full.jpg" alt="">
+                <p>O site do Teatro Escola Rosane Gofman foi trazido até nós com sérios problemas de segurança e codificação e apresentando avisos de vírus e outras vulnerabilidades.</p>
+                <p>
+                  Após um extenso estudo de seu código, remoção e substituição de diversos trechos de código maliciosos e plugins inseguros recuperamos a estabilidade e segurança do mesmo de maneira a torna-lo acessível novamente e não apresentar mais riscos.
+                </p>
+
+                <p>Hoje a manutenção do terg.com.br garante não apenas a segurança e estabilidade do site como tambem o correto funcionamento de seus componentes e serviços e a atualização necessária para mante-lo atualizado em termos de tecnologia e não mais apresentar riscos.</p>
+
+                <ul class="list-inline">
+                  <li><a href="https://www.terg.com.br/" target="_blank">terg.com.br</a></li>
+                  <li>Cliente: Teatro Escola Rosane Gofman</li>
+                  <li>Serviço: Manutenção</li>
+                </ul>
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Fechar</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
