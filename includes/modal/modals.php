@@ -483,3 +483,43 @@
       </div>
     </div>
   </div>
+
+  <!-- Modal 11 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal12" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h2 class="text-uppercase">Campos Maia</h2>
+                <p class="item-intro text-muted">Criação de Website</p>
+                <img class="img-fluid d-block mx-auto" src="img/portfolio/campos-maia-full.jpg" alt="">
+                <p>Cristiana Maia e Vinicius Ferreira são advogados do Rio de Janeiro que nos solicitaram um site leve, limpo e rápido para mostrar de maneira objetiva os conteúdos de seus trabalhos e suas áreas de atuação.</p>
+                <p>
+                  O site criado rapidamente serve como portfólio de seus trabalhos, bem como vitrine virtual rápida das áreas do direito na qual o grupo Campos Maia atua.
+                </p>
+
+                <p>O site que funciona com wordpress e alguns plugins simples teve seus componentes otimizados para carregar rapidamente e para garantir a estabilidade do site.</p>
+
+                <ul class="list-inline">
+                  <li><a href="http://camposmaia.com/v1/" target="_blank">camposmaia.com</a></li>
+                  <li>Cliente: Campos Maia</li>
+                  <li>Serviço: Criação de Website</li>
+                </ul>
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Fechar</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

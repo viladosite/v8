@@ -9,6 +9,51 @@
       </div>
       <div class="row">
 
+      	<div class="col-md-4 col-sm-6 portfolio-item">
+      	  <a class="portfolio-link" data-toggle="modal" href="#portfolioModal12">
+      	    <div class="portfolio-hover">
+      	      <div class="portfolio-hover-content">
+      	        <i class="fas fa-plus fa-3x"></i>
+      	      </div>
+      	    </div>
+      	    <img class="img-fluid" src="img/portfolio/campos-maia-thumbnail.jpg" alt="">
+      	  </a>
+      	  <div class="portfolio-caption">
+      	    <h4>Campos Maia</h4>
+      	    <p class="text-muted">Criação de Website</p>
+      	  </div>
+      	</div>
+
+      	<div class="col-md-4 col-sm-6 portfolio-item">
+      	  <a class="portfolio-link" data-toggle="modal" href="#portfolioModal11">
+      	    <div class="portfolio-hover">
+      	      <div class="portfolio-hover-content">
+      	        <i class="fas fa-plus fa-3x"></i>
+      	      </div>
+      	    </div>
+      	    <img class="img-fluid" src="img/portfolio/estante-thumbnail.jpg" alt="">
+      	  </a>
+      	  <div class="portfolio-caption">
+      	    <h4>Estante do Saber</h4>
+      	    <p class="text-muted">Criação de Website</p>
+      	  </div>
+      	</div>
+
+      	<div class="col-md-4 col-sm-6 portfolio-item">
+      	  <a class="portfolio-link" data-toggle="modal" href="#portfolioModal10">
+      	    <div class="portfolio-hover">
+      	      <div class="portfolio-hover-content">
+      	        <i class="fas fa-plus fa-3x"></i>
+      	      </div>
+      	    </div>
+      	    <img class="img-fluid" src="img/portfolio/terg-thumbnail.jpg" alt="">
+      	  </a>
+      	  <div class="portfolio-caption">
+      	    <h4>Terg</h4>
+      	    <p class="text-muted">Manutenção</p>
+      	  </div>
+      	</div>
+
         <div class="col-md-4 col-sm-6 portfolio-item">
           <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
             <div class="portfolio-hover">
@@ -141,36 +186,6 @@
           <div class="portfolio-caption">
             <h4>Loco por Ti</h4>
             <p class="text-muted">Manutenção</p>
-          </div>
-        </div>
-
-        <div class="col-md-4 col-sm-6 portfolio-item">
-          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal10">
-            <div class="portfolio-hover">
-              <div class="portfolio-hover-content">
-                <i class="fas fa-plus fa-3x"></i>
-              </div>
-            </div>
-            <img class="img-fluid" src="img/portfolio/terg-thumbnail.jpg" alt="">
-          </a>
-          <div class="portfolio-caption">
-            <h4>Terg</h4>
-            <p class="text-muted">Manutenção</p>
-          </div>
-        </div>
-
-        <div class="col-md-4 col-sm-6 portfolio-item">
-          <a class="portfolio-link" data-toggle="modal" href="#portfolioModal11">
-            <div class="portfolio-hover">
-              <div class="portfolio-hover-content">
-                <i class="fas fa-plus fa-3x"></i>
-              </div>
-            </div>
-            <img class="img-fluid" src="img/portfolio/estante-thumbnail.jpg" alt="">
-          </a>
-          <div class="portfolio-caption">
-            <h4>Estante do Saber</h4>
-            <p class="text-muted">Criação de Website</p>
           </div>
         </div>
 
