@@ -618,7 +618,7 @@
             <div class="col-lg-8 mx-auto">
               <div class="modal-body">
                 <!-- Project Details Go Here -->
-                <h2 class="text-uppercase">Portal Clube de Engenharia</h2>
+                <h2 class="text-uppercase">Portal Clube de Engenharia </h2>
                 <p class="item-intro text-muted">Manutenção</p>
                 <img class="img-fluid d-block mx-auto" src="img/portfolio/portal-clube-full.jpg" alt="">
                 <p>O Clube de Engenharia é uma instituição centenária que agrega engenheiros brasileiros de todas as áreas. O portalclubedeengenharia.org.br é o seu site oficial e traz novidades e notícias sobre todas estas áreas da engenharia, mantendo informados milhares de visitantes todos os meses.</p>
