@@ -618,8 +618,56 @@
             <div class="col-lg-8 mx-auto">
               <div class="modal-body">
                 <!-- Project Details Go Here -->
-                <h2 class="text-uppercase">Portal Clube de Engenharia </h2>
-                <p class="item-intro text-muted">Manutenção</p>
+                <h2 class="text-uppercase">Portal Clube de Engenharia</h2>
+                <p class="item-intro text-muted">Criação de Website</p>
+                <img class="img-fluid d-block mx-auto" src="img/portfolio/portal-clube-full.jpg" alt="">
+                <p>O Clube de Engenharia é uma instituição centenária que agrega engenheiros brasileiros de todas as áreas. O portalclubedeengenharia.org.br é o seu site oficial e traz novidades e notícias sobre todas estas áreas da engenharia, mantendo informados milhares de visitantes todos os meses.</p>
+                <p>
+                  Quando fomos procurados pela Espalhafato o projeto para reformulação do site do Clube de Engenharia era ousado e complexo: uma migração completa de todas as matérias, notícias e informações que constavam em seu site antigo para uma nova versão do site, desta vez em wordpress.
+                </p>
+
+                <p>Em sua versão anterior, o Clube contava com um sistema feito sob medida para o site e a idéia agora era transforma-lo num site em wordpress, tão fácil e intuitivo para alimentar as informações quanto o anterior, porem com as vantagens de implementação de recursos, compatibilidade e atualização que o wordpress oferece.</p>
+
+                <p>
+                  A migração das informações e a subsequente criação do site e adequação da identidade visual existente foi um processo planejado para ser executado ao longo de 4 meses, e foram 4 meses de trabalho intenso até que o site que encontra-se em pleno funcionamento hoje fosse finalizado.
+                </p>
+
+                <p>
+                  Tanto as equipes da Vila do Site quanto a da Espalhafato e até mesmo do próprio Clube de Engenharia tiveram bastante trabalho mas o resultado de um de nossos trabalhos mais complexos foi um site complexo, com uma quantidade de conteúdo e de visitas enorme e funcionando de maneira estável, segura e rápida mesmo sendo relativamente pesado devido ao seu grande número de componentes, recursos e conteúdo.
+                </p>
+
+                <ul class="list-inline">
+                  <li><a href="http://portalclubedeengenharia.org.br/" target="_blank">portalclubedeengenharia.org.br</a></li>
+                  <li>Cliente: Portal Clube de Engenharia</li>
+                  <li>Serviço: Criação de Website</li>
+                </ul>
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Fechar</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal 16 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal16" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h2 class="text-uppercase">Instituto Reação</h2>
+                <p class="item-intro text-muted">Criação de Website</p>
                 <img class="img-fluid d-block mx-auto" src="img/portfolio/portal-clube-full.jpg" alt="">
                 <p>O Clube de Engenharia é uma instituição centenária que agrega engenheiros brasileiros de todas as áreas. O portalclubedeengenharia.org.br é o seu site oficial e traz novidades e notícias sobre todas estas áreas da engenharia, mantendo informados milhares de visitantes todos os meses.</p>
                 <p>
