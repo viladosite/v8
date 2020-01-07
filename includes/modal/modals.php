@@ -563,3 +563,43 @@
       </div>
     </div>
   </div>
+
+  <!-- Modal 14 -->
+  <div class="portfolio-modal modal fade" id="portfolioModal14" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h2 class="text-uppercase">MP2 Produções</h2>
+                <p class="item-intro text-muted">Manutenção</p>
+                <img class="img-fluid d-block mx-auto" src="img/portfolio/mp2-full.jpg" alt="">
+                <p>O site da produtora de filmes MP2 chegou até nós com a missão de ser atualizado e incrementado já que já não passava por atualizações a muito tempo.</p>
+                <p>
+                  Alem das alterações de conteúdo solicitadas pelo cliente tanto na versão em português quanto em inglês, foram feitas tambem diversas atualizações nos plugins e componentes do site, criado em wordpress.
+                </p>
+
+                <p>As atualizações e backups ajudam a garantir a integridade do site e mante-lo seguro e livre de riscos tanto para o proprietário do site quanto para seus clientes que acessam o site.</p>
+
+                <ul class="list-inline">
+                  <li><a href="https://www.mp2producoes.com.br/" target="_blank">mp2producoes.com.br</a></li>
+                  <li>Cliente: Mp2 Produções</li>
+                  <li>Serviço: Manutenção</li>
+                </ul>
+                <button class="btn btn-primary" data-dismiss="modal" type="button">
+                  <i class="fas fa-times"></i>
+                  Fechar</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
