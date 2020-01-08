@@ -1,0 +1,6 @@
+---
+deployment:
+      tasks:
+        - export DEPLOYPATH=/home1/vilado25/public_html/v8  
+        - /bin/cp * $DEPLOYPATH                        
+        
