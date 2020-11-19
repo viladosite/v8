@@ -82,6 +82,20 @@
             </li>
             <li class="timeline-inverted">
               <div class="timeline-image">
+                <img class="rounded-circle img-fluid" src="img/about/covid.jpg" alt="">
+              </div>
+              <div class="timeline-panel">
+                <div class="timeline-heading">
+                  <h4>Fev 2020</h4>
+                  <h4 class="subheading">Pandemia</h4>
+                </div>
+                <div class="timeline-body">
+                  <p class="text-muted">Diante da pandemia que se abateu sobre o mundo todo no inicio de 2020 a Vila do Site ampliou os esforços para adaptação e flexibilização dos processos de trabalho online com seus colaboradores, trabalhando agora com seus colaboradores 100% do tempo em home office e via web. Foram tomadas tambem diversas medidas para auxiliar os clientes a lidar com a pandemia e seus obstáculos.</p>
+                </div>
+              </div>
+            </li>
+            <li class="timeline-inverted">
+              <div class="timeline-image">
                 <h4>Faça parte
                   <br>da nossa
                   <br>História</h4>

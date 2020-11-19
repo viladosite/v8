@@ -633,7 +633,7 @@
                 </p>
 
                 <p>
-                  Tanto as equipes da Vila do Site quanto a da Espalhafato e até mesmo do próprio Clube de Engenharia tiveram bastante trabalho mas o resultado de um de nossos trabalhos mais complexos foi um site complexo, com uma quantidade de conteúdo e de visitas enorme e funcionando de maneira estável, segura e rápida mesmo sendo relativamente pesado devido ao seu grande número de componentes, recursos e conteúdo.
+                  Tanto as equipes da Vila do Site quanto a da Espalhafato e até mesmo do próprio Clube de Engenharia tiveram bastante trabalho mas o resultado foi um site complexo, com uma quantidade de conteúdo e de visitas enorme e funcionando de maneira estável, segura e rápida mesmo sendo relativamente pesado devido ao seu grande número de componentes, recursos e conteúdo.
                 </p>
 
                 <ul class="list-inline">

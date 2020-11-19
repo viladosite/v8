@@ -8,7 +8,7 @@
         <div class="col-md-4">
           <ul class="list-inline social-buttons">
             <li class="list-inline-item">
-              <a href="https://wa.me/5521982481706?text=Ol%C3%A1%2C%20gostaria%20de%20contactar%20a%20Vila%20do%20Site.%20%F0%9F%99%82%F0%9F%91%8D" target="_blank">
+              <a href="https://wa.me/552141076584?text=Ol%C3%A1%2C%20gostaria%20de%20contactar%20a%20Vila%20do%20Site.%20%F0%9F%99%82%F0%9F%91%8D" target="_blank">
                 <i class="fab fa-whatsapp"></i>
               </a>
             </li>
